@@ -1,6 +1,6 @@
 [![MasterHead](https://static.wixstatic.com/media/bb7b70_be15a8eee345492095b8ddf1a2722960~mv2.gif)](https://nucontreras.io)
 
-<h1 align="center">Hi 👋, I'm Nicolas Contreras</h1>
+<h1 align="center">Hi 👋, I'm Nicolás Contreras</h1>
 <h3 align="center">A Machine Learning & Robotics Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
