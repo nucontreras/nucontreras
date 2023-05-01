@@ -24,8 +24,14 @@
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nucontreras&theme=tokyonight) 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nucontreras&show_icons=true&locale=en&theme=tokyonight" alt="nucontreras" /></p>
+
+<div align="center">
+    <a href="https://github.com/nucontreras">
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nucontreras&show_icons=true&locale=en&theme=tokyonight" alt="nucontreras" /></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nucontreras&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nucontreras" /></p>
+    </a>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nucontreras&theme=tokyonight" alt="nucontreras" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nucontreras&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nucontreras" /></p>
+
