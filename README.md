@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nucontreras&label=Profile%20views&color=0e75b6&style=flat" alt="nucontreras" /> </p>
 
-- 🌱 I’m currently learning **Ml-Agents & Unity**
+- 🌱 I’m currently learning **Ml-Agents, Unity & Static Learning**
 
 - 💬 Ask me about **Machine Learning**
 
