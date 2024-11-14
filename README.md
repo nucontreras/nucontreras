@@ -32,10 +32,9 @@
 <div align="center">
     <h3 align="left">Statistics :bar_chart:</h3>
     <a href="https://github.com/nucontreras">
-        <img src="https://github-readme-stats.vercel.app/api?username=nucontreras&show_icons=true&locale=en&theme=tokyonight" alt="nucontreras" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nucontreras&theme=tokyonight" alt="nucontreras" />
-        <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nucontreras&theme=tokyonight" alt="nucontreras" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nucontreras&theme=tokyonight" alt="nucontreras" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nucontreras&show_icons=true&locale=en&theme=tokyonight" alt="nucontreras" />
         <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nucontreras&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nucontreras" /> -->
     </a>
 </div>
